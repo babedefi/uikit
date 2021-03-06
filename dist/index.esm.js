@@ -2258,7 +2258,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/babedefi",
+        href: "https://twitter.com/babe_defi",
     },
 ];
 var MENU_HEIGHT = 64;

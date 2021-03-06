@@ -176,7 +176,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/babedefi",
+    href: "https://twitter.com/babe_defi",
   },
 ];
 
