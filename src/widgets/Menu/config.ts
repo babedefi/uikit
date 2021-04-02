@@ -36,7 +36,7 @@ export const links = [
   {
     label: "NFT",
     icon: "NftIcon",
-    href: "/nft",
+    href: "https://www.babedefi.com/",
   },
   {
     label: "Profile & Teams",
